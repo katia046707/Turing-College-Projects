@@ -10,15 +10,11 @@ SQL Proficiency: Writing optimized queries for data extraction and transformatio
 Power BI Visualization: Developing advanced dashboards for data storytelling.
 Analytical Methods: Applying concepts like funnel analysis, cohort analysis, A/B testing, and KPI tracking.
 
-The outcome aims to mirror the responsibilities of a product analyst in dynamic industries, providing critical insights to product managers, designers, and engineering teams.
-
-
 📂 Repository Structure:
 /SQL/: Contains SQL scripts for data extraction, cleaning, and transformation.
 /PowerBI/: Includes Power BI files and exported visuals for the dashboard.
 /Documentation/: Contains supporting documents, including the project explanation and tutorial links.
 README.md: This detailed README file to navigate the repository.
-
 
 🛠 Projects Overview:
 1. Problem Statement:
@@ -49,7 +45,6 @@ Provides insights into distinct user groups based on activity levels.
 Highlights trends to target marketing and product development.
 
 How to View:
-
 Open Power BI files in /PowerBI/ or access screenshots in /Documentation/.
 
 📊 SQL Scripts
