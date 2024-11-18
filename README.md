@@ -21,7 +21,7 @@ README.md: This detailed README file to navigate the repository.
 
 
 🛠 Projects Overview:
-1. Problem Statement
+1. Problem Statement:
 The projects focuse on analyzing user interactions to optimize product performance, identify bottlenecks, and improve feature adoption. Specific objectives include:
 
 Performing funnel analysis to track user journeys.
