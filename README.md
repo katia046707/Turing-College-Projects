@@ -67,27 +67,6 @@ Data Validation: Ensuring data integrity and completeness.
 Find all scripts in the /SQL/ directory.
 
 
-📘 How to Use
-Clone the Repository:
-
-git clone <repository-url>
-
-cd <project-directory>
-
-Set Up Database:
-
-Use SQL scripts to set up and populate the database.
-
-Run Power BI:
-
-Open Power BI .pbix files in the /PowerBI/ directory.
-Refresh data connections if required.
-
-Explore Visuals:
-
-View interactive dashboards to analyze insights.
-
-
 📚 Learning Objectives
 These projects demonstrate the application of key skills, including:
 
@@ -115,12 +94,6 @@ Providing actionable insights to improve products.
 [Katia Rues]
 
 Please feel free to reach out for queries or collaboration proposals.
-
-
-🔗 Resources
-Tutorial on Funnel Analysis
-Using Data to Set Product Strategy
-Additional resources in /Documentation/.
 
 
 📝 License
