@@ -4,12 +4,15 @@ It integrates SQL-based data manipulations, Excel files, Power BI-based data vis
 
 
 🎯 Objective:
-These projects simulate the role of a Product Analyst, focusing on actionable insights derived from real-world scenarios. The primary goal is to demonstrate competency in:
+These projects simulate the role of a Product Analyst, focusing on actionable insights derived from real-world scenarios. 
+The primary goal is to demonstrate competency in:
 
 SQL Proficiency: 
 Writing optimized queries for data extraction and transformation.
+
 Power BI Visualization: 
 Developing advanced dashboards for data storytelling.
+
 Analytical Methods: 
 Applying concepts like funnel analysis, cohort analysis, A/B testing, and KPI tracking.
 
@@ -25,11 +28,11 @@ This detailed README file to navigate the repository.
 
 🛠 Projects Overview:
 1. Problem Statement:
-The projects focus on analyzing user interactions to optimize product performance, identify bottlenecks, and improve feature adoption. Specific objectives include:
+2. The projects focus on analyzing user interactions to optimize product performance, identify bottlenecks, and improve feature adoption.
 
+Specific objectives include:
 Performing funnel analysis to track user journeys.
 Investigating KPIs and defining OKRs.
-
 Conducting A/B tests for feature evaluations.
 Segmenting users to derive actionable insights.
 
