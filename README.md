@@ -3,7 +3,7 @@ This repository showcases a multifaceted data analytics projects completed as pa
 It integrates SQL-based data manipulation, Excel files, Power BI-based data visualization, and in-depth data analysis methods.
 
 
-🎯 Objective
+🎯 Objective:
 These projects simulate the role of a Product Analyst, focusing on actionable insights derived from real-world scenarios. The primary goal is to demonstrate competency in:
 
 SQL Proficiency: Writing optimized queries for data extraction and transformation.
@@ -13,14 +13,14 @@ Analytical Methods: Applying concepts like funnel analysis, cohort analysis, A/B
 The outcome aims to mirror the responsibilities of a product analyst in dynamic industries, providing critical insights to product managers, designers, and engineering teams.
 
 
-📂 Repository Structure
+📂 Repository Structure:
 /SQL/: Contains SQL scripts for data extraction, cleaning, and transformation.
 /PowerBI/: Includes Power BI files and exported visuals for the dashboard.
 /Documentation/: Contains supporting documents, including the project explanation and tutorial links.
 README.md: This detailed README file to navigate the repository.
 
 
-🛠 Projects Overview
+🛠 Projects Overview:
 1. Problem Statement
 The projects focuse on analyzing user interactions to optimize product performance, identify bottlenecks, and improve feature adoption. Specific objectives include:
 
@@ -28,9 +28,9 @@ Performing funnel analysis to track user journeys.
 Investigating KPIs and defining OKRs.
 Conducting A/B tests for feature evaluations.
 Segmenting users to derive actionable insights.
-2. Data Sources
+2. Data Sources:
 The projects leverage user event data and operational logs. The data is modeled into structured tables for analysis.
-3. Deliverables
+3. Deliverables:
 Interactive Power BI dashboards visualizing product data, user funnels, trends, and insights.
 SQL queries for data retrieval and preprocessing.
 In-depth analysis results with actionable recommendations.
