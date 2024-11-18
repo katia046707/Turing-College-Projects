@@ -23,8 +23,6 @@ Contains SQL scripts for data extraction, cleaning, and transformation.
 Includes Power BI files and exported visuals for the dashboard.
 /Documentation/: 
 Contains supporting documents, including the project explanations.
-README.md: 
-This detailed README file to navigate the repository.
 
 🛠 Projects Overview:
 1. Problem Statement:
